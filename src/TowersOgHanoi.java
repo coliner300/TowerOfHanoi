@@ -1,4 +1,4 @@
-public class TowersOgHanoi {
+public class TowersOgHanoi {//accidently named it the wrong thing
     private int totalDisks;
     public TowersOgHanoi(int disks)
     {
